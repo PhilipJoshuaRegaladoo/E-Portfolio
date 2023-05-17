@@ -100,7 +100,7 @@ html{
 
 .home{
     display: flex;
-    background: url(../E-portfolio/pjhome.jpg);
+    background: url(pjhome.jpg);
     height: 100vh;
     color: #fff;
     min-height: 500px;
